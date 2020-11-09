@@ -95,7 +95,7 @@
    </script>
    ```
 
-6. 演示：![Kapture 2020-11-10 at 04.08.03](/Users/guojing/Movies/Kaptures/Kapture 2020-11-10 at 04.08.03.gif)
+6. 演示：![Kapture 2020-11-10 at 04.08.03](https://github.com/guo-jing/CSSProportionalScaling/blob/main/images/Kapture%202020-11-10%20at%2004.08.03.gif)
 
 
 
