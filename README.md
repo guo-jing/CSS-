@@ -30,7 +30,7 @@
 </div>
 ```
 
-![image-20201110034004781](http://github.com/guo-jing/CSSProportionalScaling/images/image-20201110034004781.png)
+![image-20201110034004781](http://github.com/guo-jing/CSSProportionalScaling/raw/master/images/image-20201110034004781.png)
 
 4. 现在已经有一个等比缩放的元素了，我们只需要在这个元素里生成一个 width: 100%; height: 100%; 的子元素用来展示内容就 OK 了：
 
